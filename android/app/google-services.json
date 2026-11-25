@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335024127135",
+    "project_id": "nova-finance-af2c2",
+    "storage_bucket": "nova-finance-af2c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335024127135:android:dc3a42667394a8236a36aa",
+        "android_client_info": {
+          "package_name": "com.example.nova_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335024127135-g9qpsf7c3va86un0gfl6bdbpva5a8lot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nova_finance",
+            "certificate_hash": "cf1f902d87e638ab7f0d925acc057239da0ebb9a"
+          }
+        },
+        {
+          "client_id": "335024127135-3jm2l30t4rsq079d7ljevhcl5mp1sfr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_0Hp67664wDWtJwyEvfhVnOcKwptCaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335024127135-3jm2l30t4rsq079d7ljevhcl5mp1sfr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

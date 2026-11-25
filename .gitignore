@@ -1,0 +1,62 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter / Dart / Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+/android/.gradle/
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+
+# Build Outputs & Archives
+*.apk
+*.aab
+*.ipa
+*.exe
+*.msix
+*.zip
+*.tar
+*.tar.gz
+app.*.symbols
+app.*.map.json
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Sensitive Data & Local Scratch Scripts
+parsed_bank_sms*.txt
+sms_dump.txt
+errors.txt
+screen*.png
+/*.py
+/*.js
+/resize_logo.dart
+/fix_db/
+/loverbleui/
